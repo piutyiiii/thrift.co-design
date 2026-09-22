@@ -20,6 +20,18 @@ UI/UX Design & App Development
 ### Style Match
 ![Style Match](UI-Design/Style-Match/style-match.jpg)
 
+### Selling
+![Selling](UI-Design/Selling/selling.jpg)
+
+### About Us
+![About Us](UI-Design/About-Us/about-us.jpg)
+
+### Smart Hub
+![Smart Hub](UI-Design/Smart-Hub/smart-hub.jpg)
+
+### Trico AI
+![Trico AI](UI-Design/Trico-AI/trico.AI.jpg)
+
 ## ✨ Main Features
 - Sustainable fashion marketplace
 - Shop by categories
