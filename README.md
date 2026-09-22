@@ -1,6 +1,3 @@
-# thrift.co-design
-UI/UX Design project for Thrift.co, a sustainable pre-loved fashion marketplace.
-
 # 🌿 Thrift.co — Sustainable Fashion Marketplace
 Thrift.co is a UI/UX design concept for a sustainable
 pre-loved fashion marketplace.
